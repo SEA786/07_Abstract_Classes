@@ -31,14 +31,14 @@ public class App {
 
         private static double areaDiff(Rectangle r, Circle c ){
         return r.area() - c.area();
-        }
+            }
 
 
         
     
         private static void output(String outputStr) {
         System.out.println(outputStr);
-        }
+         }
 
     }
 
